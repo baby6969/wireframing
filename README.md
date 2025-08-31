@@ -90,5 +90,28 @@ Wireframes serve as a blueprint for developers and QA teams, ensuring consistenc
 **Example:** Interactive wireframes showing button functionality help QA teams verify that all interactions work as intended before coding begins.
 
 Overall, wireframing streamlines the design process, reduces misunderstandings, and ensures the final software meets user needs effectively and efficiently.
+## Wireframing in Practice
+
+### Real-World Scenario
+Consider a booking management system where users were frequently abandoning their bookings at the checkout stage. Before development, a low-fidelity wireframe of the checkout process was created to analyze the user flow.
+
+**Identified Usability Issues:**
+- Confusing placement of the “Confirm Booking” button, making it hard to locate.
+- Missing visual feedback after selecting payment options, leaving users uncertain if their choice was registered.
+- Overcrowded information in the booking summary, causing cognitive overload.
+
+### Resolution
+By reviewing the wireframe with stakeholders and test users:
+- The “Confirm Booking” button was repositioned prominently below the booking summary.
+- Interactive indicators were added to show which payment method was selected.
+- The booking summary was simplified to highlight key information such as date, time, and total price.
+
+### Impact on the Final Product
+- Increased usability and a smoother checkout process.
+- Reduced booking abandonment rates.
+- Clearer communication between designers, developers, and stakeholders, reducing rework during development.
+
+### Conclusion
+Wireframing played a crucial role in identifying and resolving usability issues before coding began. By focusing on layout, navigation, content placement, and functionality, wireframes ensured the final product was user-friendly, intuitive, and aligned with stakeholder expectations.
 
 
